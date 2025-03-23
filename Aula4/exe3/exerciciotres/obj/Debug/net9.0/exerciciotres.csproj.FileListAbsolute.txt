@@ -1,0 +1,14 @@
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\bin\Debug\net9.0\exerciciotres.exe
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\bin\Debug\net9.0\exerciciotres.deps.json
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\bin\Debug\net9.0\exerciciotres.runtimeconfig.json
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\bin\Debug\net9.0\exerciciotres.dll
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\bin\Debug\net9.0\exerciciotres.pdb
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\exerciciotres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\exerciciotres.AssemblyInfoInputs.cache
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\exerciciotres.AssemblyInfo.cs
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\exerciciotres.csproj.CoreCompileInputs.cache
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\exerciciotres.dll
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\refint\exerciciotres.dll
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\exerciciotres.pdb
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\exerciciotres.genruntimeconfig.cache
+C:\Users\dm210\DS_2K25\Arquivos_LPR\exe3\exerciciotres\obj\Debug\net9.0\ref\exerciciotres.dll
