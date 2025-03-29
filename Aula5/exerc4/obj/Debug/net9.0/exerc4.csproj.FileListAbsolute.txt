@@ -1,0 +1,15 @@
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\bin\Debug\net9.0\exerc4.exe
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\bin\Debug\net9.0\exerc4.deps.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\bin\Debug\net9.0\exerc4.runtimeconfig.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\bin\Debug\net9.0\exerc4.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\bin\Debug\net9.0\exerc4.pdb
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\exerc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\exerc4.AssemblyInfoInputs.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\exerc4.AssemblyInfo.cs
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\exerc4.csproj.CoreCompileInputs.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\exerc4.sourcelink.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\exerc4.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\refint\exerc4.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\exerc4.pdb
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\exerc4.genruntimeconfig.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula5\exerc4\obj\Debug\net9.0\ref\exerc4.dll
