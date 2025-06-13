@@ -1,0 +1,15 @@
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\bin\Debug\net9.0\Atividade1.exe
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\bin\Debug\net9.0\Atividade1.deps.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\bin\Debug\net9.0\Atividade1.runtimeconfig.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\bin\Debug\net9.0\Atividade1.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\bin\Debug\net9.0\Atividade1.pdb
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\Atividade1.AssemblyInfoInputs.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\Atividade1.AssemblyInfo.cs
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\Atividade1.sourcelink.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\Atividade1.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\refint\Atividade1.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\Atividade1.pdb
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\Atividade1.genruntimeconfig.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\TarefasLPR_DM_2K25\Aula7\Atividade1\obj\Debug\net9.0\ref\Atividade1.dll

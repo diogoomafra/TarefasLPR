@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "Atividade1.sln",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
