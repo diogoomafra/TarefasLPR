@@ -39,11 +39,8 @@ Este repositório organiza, por aula, exercícios de lógica e programação em 
 
 ##  Linguagens Utilizadas
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-- **C#** — ~75% dos exercícios, focando em `list`, `dictionary` e manipulação de dados.  
-- **C++** — ~25% dos exercícios, trabalhando com `vector`, `list`, `dictionary` e outras estruturas de dados.
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  — ~75% dos exercícios, focando em `list`, `dictionary` e manipulação de dados.  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)   — ~25% dos exercícios, trabalhando com `vector`, `list`, `dictionary` e outras estruturas de dados.
 
 ---
 
