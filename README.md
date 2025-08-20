@@ -19,7 +19,7 @@ Aqui detalhamos exercícios feitos em C# e C++, por **Diogo Mafra**.
 
 Este repositório organiza, por aula, exercícios de lógica e programação em **C#** e **C++**, cobrindo tópicos como:
 - Estruturas de repetição, condicionais e funções  
-- Listas, vetores, dicionários
+- Listas, vetores e dicionários
 
 ---
 
@@ -42,8 +42,8 @@ Este repositório organiza, por aula, exercícios de lógica e programação em 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
-- **C#** — ~75% dos exercícios, focando em `List<T>`, `Dictionary`, manipulação de dados e LINQ (quando usado).  
-- **C++** — ~25% dos exercícios, trabalhando com `vector`, `list`, `map`, `sort`, e outras estruturas STL.
+- **C#** — ~75% dos exercícios, focando em `list`, `dictionary` e manipulação de dados.  
+- **C++** — ~25% dos exercícios, trabalhando com `vector`, `list`, `dictionary` e outras estruturas de dados.
 
 ---
 
