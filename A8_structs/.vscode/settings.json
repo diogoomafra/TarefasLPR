@@ -1,0 +1,8 @@
+{
+    "dotnet.defaultSolution": "att1.sln",
+    "files.associations": {
+        "string": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp"
+    }
+}

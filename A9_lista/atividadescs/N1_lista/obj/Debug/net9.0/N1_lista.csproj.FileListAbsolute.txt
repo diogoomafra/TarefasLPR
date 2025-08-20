@@ -1,0 +1,15 @@
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\bin\Debug\net9.0\N1_lista.exe
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\bin\Debug\net9.0\N1_lista.deps.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\bin\Debug\net9.0\N1_lista.runtimeconfig.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\bin\Debug\net9.0\N1_lista.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\bin\Debug\net9.0\N1_lista.pdb
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\N1_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\N1_lista.AssemblyInfoInputs.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\N1_lista.AssemblyInfo.cs
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\N1_lista.csproj.CoreCompileInputs.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\N1_lista.sourcelink.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\N1_lista.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\refint\N1_lista.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\N1_lista.pdb
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\N1_lista.genruntimeconfig.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A9_lista\atividadescs\N1_lista\obj\Debug\net9.0\ref\N1_lista.dll
