@@ -1,0 +1,15 @@
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\bin\Debug\net9.0\tarefaN3.exe
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\bin\Debug\net9.0\tarefaN3.deps.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\bin\Debug\net9.0\tarefaN3.runtimeconfig.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\bin\Debug\net9.0\tarefaN3.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\bin\Debug\net9.0\tarefaN3.pdb
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\tarefaN3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\tarefaN3.AssemblyInfoInputs.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\tarefaN3.AssemblyInfo.cs
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\tarefaN3.csproj.CoreCompileInputs.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\tarefaN3.sourcelink.json
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\tarefaN3.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\refint\tarefaN3.dll
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\tarefaN3.pdb
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\tarefaN3.genruntimeconfig.cache
+C:\Users\dm210\OneDrive\Documentos\GitHub\Tarefas_LPR2K25_DM\A10_dicionario\atividadesemcss\tarefaN3\obj\Debug\net9.0\ref\tarefaN3.dll

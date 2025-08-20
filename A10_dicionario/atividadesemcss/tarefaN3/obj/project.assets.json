@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dm210\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR2K25_DM\\A9_lista\\atividadescs\\N1_lista\\N1_lista.csproj",
-      "projectName": "N1_lista",
-      "projectPath": "C:\\Users\\dm210\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR2K25_DM\\A9_lista\\atividadescs\\N1_lista\\N1_lista.csproj",
+      "projectUniqueName": "C:\\Users\\dm210\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR2K25_DM\\A10_dicionario\\atividadesemcss\\tarefaN3\\tarefaN3.csproj",
+      "projectName": "tarefaN3",
+      "projectPath": "C:\\Users\\dm210\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR2K25_DM\\A10_dicionario\\atividadesemcss\\tarefaN3\\tarefaN3.csproj",
       "packagesPath": "C:\\Users\\dm210\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dm210\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR2K25_DM\\A9_lista\\atividadescs\\N1_lista\\obj\\",
+      "outputPath": "C:\\Users\\dm210\\OneDrive\\Documentos\\GitHub\\Tarefas_LPR2K25_DM\\A10_dicionario\\atividadesemcss\\tarefaN3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,6 @@
+{
+    "dotnet.defaultSolution": "tarefaN3.sln",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
